@@ -11,7 +11,7 @@ echo-client/classes/
 echo-client/build/
 
 *.iml
-echo-client/gradle/wrapper/gradle-wrapper.jar
+!echo-client/gradle/wrapper/gradle-wrapper.jar
 .idea/
 echo-client/.gradle/
 
